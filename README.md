@@ -2,4 +2,7 @@
 
 By: Jared Adler
 
-This project uses data from the 2014 census 
+>This project JavaScript, HTML, and CSS to display an interactive webpage using 2014 census data.
+
+>It depicts various relationships between
+
